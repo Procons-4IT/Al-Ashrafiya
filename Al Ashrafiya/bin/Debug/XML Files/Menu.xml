@@ -1,0 +1,17 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43520" Position="13" String="Al Ashrafiya" Type="2" UniqueID="Z_mnu_Al002" Image="">
+				<Menus>
+					<action type="add">
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_Al002" Position="0" String="Branch DB Setup" Type="1" UniqueID="Z_mnu_Al003" />
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_Al002" Position="1" String="Cash Transfer to Branch" Type="1" UniqueID="Z_mnu_Al004" />
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_Al002" Position="2" String="Sales Traget" Type="1" UniqueID="Z_mnu_Al005" />
+						<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_Al002" Position="3" String="Print Documents" Type="1" UniqueID="Z_mnu_Al006" />
+					</action>
+				</Menus>
+			</Menu>
+
+	</action>
+	</Menus>
+</Application>

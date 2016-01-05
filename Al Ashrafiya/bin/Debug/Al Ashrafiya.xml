@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlAshrafiya
+</name>
+</assembly>
+<members>
+<member name="T:Al_Ashrafiya.dsAL.HeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.LinesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.CostDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.HeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.LinesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.CostRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.HeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.LinesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL.CostRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Al_Ashrafiya.dsAL">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Al_Ashrafiya.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Al_Ashrafiya.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Al_Ashrafiya.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

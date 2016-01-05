@@ -1,0 +1,19 @@
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\bin\Debug\Futura Integration.exe
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\bin\Debug\Futura Integration.pdb
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\bin\Debug\Futura Integration.xml
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Futura Integration.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\FuturaIntegration.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Futura Integration.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Futura Integration.exe
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Futura Integration.xml
+E:\InterNational Business Projects\Procons-4it\Futura Integrations\Futura Integrations\obj\Debug\Futura Integration.pdb
+E:\InterNational Business Projects\Procons-4it\Al Ashrafiya\Al Ashrafiya\obj\Debug\Futura Integration.exe
+E:\InterNational Business Projects\Procons-4it\Al Ashrafiya\Al Ashrafiya\obj\Debug\Futura Integration.xml
+E:\InterNational Business Projects\Procons-4it\Al Ashrafiya\Al Ashrafiya\obj\Debug\Futura Integration.pdb
